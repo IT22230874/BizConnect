@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "BizConnect",
+    "slug": "BizConnect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Bizconnect_Logo.png",
+    "scheme": "BizConnect",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "splash": {
+      "image": "./assets/Bizconnect_Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "newArchEnabled": true,
+      "supportsTablet": true,
+      "bundleIdentifier": "com.akalankadias.BizConnect",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera for uploading photos.",
+        "NSLocationWhenInUseUsageDescription": "This app needs access to your location."
+      }
+    },
+    "android": {
+      "newArchEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.akalankadias.BizConnect",
+      "permissions": [
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "NOTIFICATIONS"
+      ],
+      "notification": {
+        "icon": "./assets/images/notification-icon.png",
+        "color": "#000000"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3f68354d-1e8d-4b3a-8676-6314bee1fb78"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "profile": {
+      "username": "Username",
+      "jobRole": "Job Role"
+    },
+    "business": {
+      "name": "Business Name",
+      "address": "Address",
+      "category": "Category",
+      "popular": "Popular Business",
+      "viewAll": "View All"
+    }
+}
