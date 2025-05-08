@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# 📱 BIZconnect – Empowering SMEs Globally
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**BIZconnect** is an innovative mobile platform designed to connect small and medium-sized enterprises (SMEs) with exporters, wholesalers, and distributors around the world. It helps entrepreneurs showcase their products, form collaborations, and access financial support — all within a single, user-friendly app.
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 Key Features
 
-   ```bash
-   npm install
-   ```
+### 🛍️ Marketplace
+- Post products with images, descriptions, and pricing.
+- View and search products globally.
+- Connect with international buyers and exporters.
 
-2. Start the app
+### 💸 Competitive Bidding System
+- Exporters can place transparent bids on products.
+- Entrepreneurs can accept or negotiate bids in real-time.
+- Encourages fair pricing and open market dynamics.
 
-   ```bash
-    npx expo start
-   ```
+### 🤝 Collaboration Tools (CollabSpace)
+- Create or join collaboration spaces for shared projects.
+- Discuss, share files, and update tasks in group chats.
+- Designed to help small businesses manage bulk orders and scale together.
 
-In the output, you'll find options to open the app in a
+### 💬 Real-Time Chat
+- Secure 1:1 or group messaging.
+- Typing indicators, timestamps, and auto-scroll to latest message.
+- Clean and modern UI using accent color `#FF8C00`.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 💰 Financial Support System
+- Apply for funding during critical business phases.
+- Track application status and fund usage.
+- Designed as an emergency micro-fund system for SMEs.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🔔 Notifications
+- Receive alerts for:
+  - Bids and updates
+  - New messages
+  - Collaboration requests
+  - Financial support updates
 
-## Get a fresh project
+### 👤 User Profiles
+- Create a professional business profile.
+- Showcase your business, products, and collaborations.
+- View other users' profiles to connect or collaborate.
 
-When you're ready, run:
+### 🔍 Search & Discovery
+- Search users, products, or collaboration spaces.
+- Use filters for efficient discovery and networking.
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 👥 Target Users
 
-## Learn more
+- Small entrepreneurs (crafts, textiles, pottery, etc.)
+- Exporters and wholesale buyers
+- Collaborators or distributors
+- Community-focused business groups
 
-To learn more about developing your project with Expo, look at the following resources:
+### 🌍 SDG Alignment
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+This project supports UN Sustainable Development Goal 8
+“Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.”
+BIZconnect empowers small businesses by giving them visibility, financial access, and international reach.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
